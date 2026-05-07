@@ -5,20 +5,20 @@
   "description": "Apps from the crystall1nedev and AngelAuraMC universes, now on Alt and SideStore.",
   "iconURL": "https://crystall1ne.dev/media/the_icon.png",
   "website": "https://www.minecraft.net/en-us",
-  "patreonURL": "https://patreon.com/crystall1nedev",
+  "patreonURL": "https://www.minecraft.net/en-us",
   "fediUsername": "crystll1ne",
   "tintColor": "#99140b",
   "featuredApps": [
-    "org.angelauramc.amethyst"
+    "org.hanthedev.amethyst"
   ],
   "headerURL": "https://crystall1ne.dev/media/the_point.png",
   "apps": [
     {
-      "name": "Angel Aura Amethyst",
-      "bundleIdentifier": "org.angelauramc.amethyst",
-      "developerName": "AngelAuraMC",
-      "subtitle": "Bringing Minecraft: Java Edition to mobile devices.",
-      "localizedDescription": "THESE BUILDS WILL NOT AUTOMATICALLY UPDATE AND YOU WILL NOT RECEIVE ANY NOTIFICATIONS FOR SUCH (at least, right now. I'm working on it.). Angel Aura Amethyst is a Minecraft: Java Edition launcher for iOS based on the PojavLauncher project.\n\n\u2022 Play most versions of Minecraft, from the very first beta to the latest snapshots.\n\u2022 Customize with mods, resource packs, and compatible shaders\n\u2022 Create multiple instances of Minecraft for multiple versions\n\u2022 Adjust on-screen controls to your liking, or use keyboard and mouse or controllers\n\u2022 Play online with full Java Edition servers\n...and so much more!\n\nNotice: Amethyst requires JIT to function correctly. This application automatically enables JIT with AltServer, TrollStore, or when jailbroken, however other methods can be used if required.",
+      "name": "Minecraft Launcher",
+      "bundleIdentifier": "org.hanthedev.amethyst",
+      "developerName": "Tester",
+      "subtitle": "A Minecraft Launcher.",
+      "localizedDescription": "Test.",
       "iconURL": "https://raw.githubusercontent.com/AngelAuraMC/Amethyst-iOS/main/Natives/Assets.xcassets/AppIcon-Light.appiconset/1024x1024.png",
       "tintColor": "#9649B8",
       "category": "games",
